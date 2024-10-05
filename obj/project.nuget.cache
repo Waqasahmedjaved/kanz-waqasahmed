@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XrMxL1z2pxOts93Ah30qOW7bx2wISxUQM6jNvZEBJVn6D/SgHmkClN555zyy6iPuYDsU50ULw22F3gaji8tJQ==",
+  "success": true,
+  "projectFilePath": "F:\\TestCode\\kanz-waqasahmed\\kanz-waqasahmed\\kanz-waqasahmed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\xunit.assert\\2.9.2\\xunit.assert.2.9.2.nupkg.sha512",
+    "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\xunit.extensibility.core\\2.9.2\\xunit.extensibility.core.2.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
